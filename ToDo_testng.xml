@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Suite" parallel = "tests">
+    <test name = "ToDo_App">
+        <classes>
+            <class name = "ToDo_AppTests.CreateTask"/>
+            <class name = "ToDo_AppTests.CreateTaskUsingJSON"/>
+            <class name = "runner.CreateTaskRunner"/>
+            <class name = "runner.CreateTaskRunnerUsingTable"/>
+        </classes>
+    </test>
+</suite>
