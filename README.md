@@ -9,7 +9,7 @@ This repository contains practical Appium automation scripts for testing Android
 - Writing reusable page objects
 
 ## 🧰 Tech Stack
-- Appium
+- AppiumDriver / AndroidDriver
 - Java
 - Maven
 - TestNG
