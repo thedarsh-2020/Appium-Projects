@@ -24,6 +24,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>ToDo_testng.xml</suiteXmlFile>
+                            <suiteXmlFile>ApiDemos_testng.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>

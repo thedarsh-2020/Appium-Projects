@@ -1,4 +1,4 @@
-package ToDo_App;
+package ApiDemos_App;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;

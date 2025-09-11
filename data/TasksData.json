@@ -1,12 +1,12 @@
 {
   "Tasks Data": [
     {
-      "TaskName" : "Finish Appium Course",
-      "TaskDesc" : "Need to finish the course ASAP"
+      "TaskName" : "JSON Task 1",
+      "TaskDesc" : "Task 1 in details"
     },
     {
-      "TaskName" : "Start PlayWrite Course",
-      "TaskDesc" : "Need to check the new course"
+      "TaskName" : "JSON Task 2",
+      "TaskDesc" : "Task 2 in details"
     }
   ]
 }
