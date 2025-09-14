@@ -13,6 +13,7 @@ This repository contains practical Appium automation scripts for testing Android
 
 ## 🧰 Tech Stack
 - AppiumDriver / AndroidDriver
+- POM
 - Java
 - Maven
 - TestNG
